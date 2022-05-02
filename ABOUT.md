@@ -1,5 +1,7 @@
 Name: Basel Mahmoud Qarqa
+
 Phone: 0787159816
+
 Email: Basel.qarqa@gmail.com
 
 Reason for choosing flutter
